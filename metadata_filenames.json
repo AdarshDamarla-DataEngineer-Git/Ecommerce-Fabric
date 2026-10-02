@@ -1,8 +1,7 @@
 [
   {
     "fileName": "customer_dim.csv",
-    "tableName": "customer_dim",
-    "keyColumn": "customer_key"
+    "tableName": "customer_dim"
   },
   {
     "fileName": "fact_table.csv",
@@ -10,22 +9,18 @@
   },
   {
     "fileName": "item_dim.csv",
-    "tableName": "item_dim",
-    "keyColumn": "item_key"
+    "tableName": "item_dim"
   },
   {
     "fileName": "store_dim.csv",
-    "tableName": "store_dim",
-    "keyColumn": "store_key"
+    "tableName": "store_dim"
   },
   {
     "fileName": "time_dim.csv",
-    "tableName": "time_dim",
-    "keyColumn": "time_key"
+    "tableName": "time_dim"
   },
   {
     "fileName": "Trans_dim.csv",
-    "tableName": "Trans_dim",
-    "keyColumn": "payment_key"
+    "tableName": "Trans_dim"
   }
 ]
